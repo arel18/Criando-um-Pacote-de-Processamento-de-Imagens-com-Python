@@ -1,11 +1,7 @@
-# image processing
+# image processing 
 
-Description
-The package image_processing is used to:
-    Processing:
-    - Histogram matching
-    - Structural similary
-    - Resize Image
+Descrição O pacote de processamento de imagem é utilizado para: Processar: - Correspondência de histograma - Similaridade estrutural - Redimensionar imagem Utilitários: - Ler imagem - Salvar imagem - Plotar imagem - Plotar resultado - Plotar histograma
+
 Utils:
     - Read image
     - Save image
